@@ -10,8 +10,10 @@ A python script that pulls CPI and Core CPI data from the Federal Reserve (FRED)
 
 How to Run:
 bash
-git clone https://github.com/yourusername/inflation-visualizer.git
-cd inflation-visualizer
+git clone https://github.com/giovannicarbonaro5-a11y/Economics-Projects.git
+cd Economics-Projects
+pip install -r requirements.txt
+python "CPI YoY inflation and Core Inflation.py"
 
 pip install fredapi pandas matplotlib
 [Code for CPI YoY inflation and Core Inflation.py](https://github.com/user-attachments/files/21820282/Code.for.CPI.YoY.inflation.and.Core.Inflation.py)
