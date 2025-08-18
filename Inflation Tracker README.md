@@ -1,4 +1,4 @@
-[Code for CPI YoY inflation and Core Inflation.py](https://github.com/user-attachments/files/21820281/Code.for.CPI.YoY.inflation.and.Core.Inflation.py)# U.S. Inflation Tracker
+# U.S. Inflation Tracker
 A python script that pulls CPI and Core CPI data from the Federal Reserve (FRED), calculates year-over-year inflation, and visualizes it with Matplotlib.  
 
  Requirements:
